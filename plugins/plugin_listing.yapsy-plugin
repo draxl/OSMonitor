@@ -1,0 +1,9 @@
+[Core]
+Name = Plugin Listing
+Module = plugin_listing
+
+[Documentation]
+Author = OSGroup
+Version = 0.1
+Website = http://www.technikum-wien.at
+Description = This is plugin for showing a list of connected RaspBerry PI
